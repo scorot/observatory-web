@@ -1,0 +1,35 @@
+site_name: My Observatory
+site_url: http://scorot.free.fr/observatory/
+copyright: Copyright &copy; 2021 - 2024 Sebastien Corot
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.blocks.caption
+theme:
+  name: material
+  icon:
+    logo: material/telescope
+  features:
+    - navigation.top
+    - toc.integrate
+    #- navigation.footer
+  palette:
+
+    # Palette toggle for light mode
+    - scheme: default
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+extra:
+  social:
+    - icon: octicons/telescope-16
+      link: https://www.astrobin.com/users/scorot/
+      name: Astrobin
+extra_javascript:
+  - javascripts/weather.js
