@@ -1,6 +1,6 @@
 site_name: My Observatory
 site_url: http://scorot.free.fr/observatory/
-copyright: Copyright &copy; 2021 - 2024 Sebastien Corot
+copyright: Copyright &copy; 2021 - 2025 Sebastien Corot
 markdown_extensions:
   - attr_list
   - md_in_html
