@@ -14,40 +14,40 @@
 
 ## Sky conditions last 3 hours
 
-![](http://raspberrypi.local/observatory/images/aagcloud-cloudcover-lasthour.png)
+![](http://scorot.free.fr/observatory/images/aagcloud-cloudcover-lasthour.png)
 
-![](http://raspberrypi.local/observatory/images/aagcloud-humidity-lasthour.png)
+![](http://scorot.free.fr/observatory/images/aagcloud-humidity-lasthour.png)
 
-![](http://raspberrypi.local/observatory/images/aagcloud-light-lasthour.png)
+![](http://scorot.free.fr/observatory/images/aagcloud-light-lasthour.png)
 
-![](http://raspberrypi.local/observatory/images/temp-and-dewpoint-lasthour.png)
+![](http://scorot.free.fr/observatory/images/temp-and-dewpoint-lasthour.png)
 
 ## Sky conditions last 24 hours
 
-![](http://raspberrypi.local/observatory/images/aagcloud-cloudcover-lastday.png)
+![](http://scorot.free.fr/observatory/images/aagcloud-cloudcover-lastday.png)
 
-![](http://raspberrypi.local/observatory/images/aagcloud-humidity-lastday.png)
+![](http://scorot.free.fr/observatory/images/aagcloud-humidity-lastday.png)
 
-![](http://raspberrypi.local/observatory/images/aagcloud-light-lastday.png)
+![](http://scorot.free.fr/observatory/images/aagcloud-light-lastday.png)
 
-![](http://raspberrypi.local/observatory/images/temp-and-dewpoint-lastday.png)
+![](http://scorot.free.fr/observatory/images/temp-and-dewpoint-lastday.png)
 
 ## All sensors data collected last 3 hours
 
-![](http://raspberrypi.local/observatory/images/aagcloud-sky-lasthour.png)
+![](http://scorot.free.fr/observatory/images/aagcloud-sky-lasthour.png)
 
-![](http://raspberrypi.local/observatory/images/aagcloud-rain-lasthour.png)
+![](http://scorot.free.fr/observatory/images/aagcloud-rain-lasthour.png)
 
-![](http://raspberrypi.local/observatory/images/aagcloud-temp-lasthour.png)
+![](http://scorot.free.fr/observatory/images/aagcloud-temp-lasthour.png)
 
-![](http://raspberrypi.local/observatory/images/aagcloud-all-lasthour.png)
+![](http://scorot.free.fr/observatory/images/aagcloud-all-lasthour.png)
 
 ## All sensors data collected last 24 hours
 
-![](http://raspberrypi.local/observatory/images/aagcloud-sky-lastday.png)
+![](http://scorot.free.fr/observatory/images/aagcloud-sky-lastday.png)
 
-![](http://raspberrypi.local/observatory/images/aagcloud-rain-lastday.png)
+![](http://scorot.free.fr/observatory/images/aagcloud-rain-lastday.png)
 
-![](http://raspberrypi.local/observatory/images/aagcloud-temp-lastday.png)
+![](http://scorot.free.fr/observatory/images/aagcloud-temp-lastday.png)
 
-![](http://raspberrypi.local/observatory/images/aagcloud-all-lastday.png)
+![](http://scorot.free.fr/observatory/images/aagcloud-all-lastday.png)
